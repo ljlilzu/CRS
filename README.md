@@ -1,9 +1,9 @@
 # CRS
-The codes and data for the paper "Effective link prediction based on community relationship strength. IEEE Access, 2019." The code is implemented in Python 3.5 with the package of igraph.
+The codes and data for the paper "Effective link prediction based on community relationship strength. IEEE Access, vol. 7, 2019." The code is implemented in Python 3.5 with the package of igraph.
 
 If you find the code useful, please cite our paper.
 
-@ARTICLE{Li2019, 
+@ARTICLE{Li2019,
     author={L. {Li} and S. {Fang} and S. {Bai} and S. {Xu} and J. {Cheng} and X. {Chen}}, 
     journal={IEEE Access}, 
     title={Effective Link Prediction Based on Community Relationship Strength}, 
@@ -17,5 +17,4 @@ If you find the code useful, please cite our paper.
 }
 
 For any questions regarding the paper, the code, the installation and so on, please contact the authors.
-
 
